@@ -1,7 +1,7 @@
 # Classification(Sınıflandırma) Araba Satın Alma Kararı
 Veri kümesi kullanılarak araba almayı düşünen kullanıcıların kararlarını sınıflandırmaktadır.
 
-➡️Kullanılan Algoritmalar:
+🔘Kullanılan Algoritmalar:
 
 🔹Logistic Regression
 
@@ -19,7 +19,7 @@ Veri kümesi hakkında: 1000 müşterinin araba alma detaylarını içermektedir
 
 Hata ayıklama yöntemi=confusion matrix
 
-➡️Kullanılan Kütüphaneler:
+🔘Kullanılan Kütüphaneler:
 
 Pandas
 
