@@ -21,11 +21,11 @@ Hata ayıklama yöntemi=confusion matrix
 
 🔘Kullanılan Kütüphaneler:
 
-Pandas
+-Pandas
 
-Numpy
+-Numpy
 
-Matplotlib
+-Matplotlib
 
-Seaborn 
+-Seaborn 
 
